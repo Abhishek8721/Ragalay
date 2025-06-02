@@ -67,7 +67,33 @@ const AboutUs = () => {
             </div>
           </div>
         </section>
-
+ {/* Meet Our Mentors Section */}
+        <section className="py-16 bg-secondary">
+          <div className="container mx-auto px-4">
+            <h2 className="text-3xl font-bold mb-10 text-center">Meet Our Mentors</h2>
+            
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+              {mentors.map(mentor => (
+                <Link 
+                  key={mentor.id} 
+                  to={`/instructor/${mentor.id}`} 
+                  className="bg-background rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300"
+                >
+                  <img 
+                    src={mentor.image} 
+                    alt={mentor.name} 
+                    className="w-full h-64 object-cover" 
+                  />
+                  <div className="p-6">
+                    <h3 className="font-bold text-xl mb-1">{mentor.name}</h3>
+                    <p className="text-primary font-medium mb-3">{mentor.instrument} Instructor</p>
+                    <p className="text-muted-foreground">{mentor.bio}</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
         {/* Our Story Section */}
         <section className="py-16">
           <div className="container mx-auto px-4">
@@ -112,33 +138,7 @@ const AboutUs = () => {
           </div>
         </section>
 
-        {/* Meet Our Mentors Section */}
-        <section className="py-16 bg-secondary">
-          <div className="container mx-auto px-4">
-            <h2 className="text-3xl font-bold mb-10 text-center">Meet Our Mentors</h2>
-            
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-              {mentors.map(mentor => (
-                <Link 
-                  key={mentor.id} 
-                  to={`/instructor/${mentor.id}`} 
-                  className="bg-background rounded-lg overflow-hidden shadow-md hover:shadow-lg transition-shadow duration-300"
-                >
-                  <img 
-                    src={mentor.image} 
-                    alt={mentor.name} 
-                    className="w-full h-64 object-cover" 
-                  />
-                  <div className="p-6">
-                    <h3 className="font-bold text-xl mb-1">{mentor.name}</h3>
-                    <p className="text-primary font-medium mb-3">{mentor.instrument} Instructor</p>
-                    <p className="text-muted-foreground">{mentor.bio}</p>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
+       
       </main>
       <Footer />
     </div>
