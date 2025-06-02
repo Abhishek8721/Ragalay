@@ -101,5 +101,42 @@ export const courses = [
     "Mastering techniques for loudness and clarity",
     "Exporting and preparing tracks for distribution"
   ]
-  }
+  },
+  {
+  "id": 7,
+  "title": "Editing, Color Grading and Cinematography",
+  "instructor": "Bhargav Jyoti Kashyap",
+  "level": "All Levels",
+  "price": "700/Class",
+  "image": "https://www.shutterstock.com/image-photo/video-editor-filming-online-tutorial-600nw-2466601373.jpg",
+  "category": "Editing",
+  "description": "Dive into the dynamic world of visual storytelling with Bhargav Jyoti Kashyap. This all-levels course covers the essentials of cinematography, editing, and color grading—from camera setup and shot composition to post-production workflows. Learn to craft stunning visuals and bring your creative vision to life using industry-standard tools and techniques.",
+  "learnings": [
+    "Camera angles, framing, and movement for cinematic shots",
+    "Lighting setups for different moods and scenes",
+    "Fundamentals of editing with Adobe Premiere Pro or DaVinci Resolve",
+    "Color correction and creative color grading workflows",
+    "Tips for building a visually cohesive and impactful reel"
+  ]
+},
+{
+  "id": 8,
+  "title": "Drumming",
+  "instructor": "Clarelance Momin",
+  "level": "All Levels",
+  "price": "700/Class",
+  "image": "https://cdn.pixabay.com/photo/2017/08/07/03/53/drums-2599508_1280.jpg",
+  "category": "Music",
+  "description": "Unleash your inner rhythm with Clarelance Momin’s all-level drumming course. Whether you're picking up sticks for the first time or looking to sharpen your groove, this class covers everything from basic beats to complex time signatures. Explore funk, progressive rock, and experimental styles while learning proper technique, musicality, and how to express yourself through the drums.",
+  "learnings": [
+    "Essential drum kit setup and posture",
+    "Basic to advanced rhythm patterns and fills",
+    "Groove building in funk, rock, and experimental genres",
+    "Understanding time signatures and tempo control",
+    "Techniques for live performance and studio recording"
+  ]
+}
+
+
+
 ];

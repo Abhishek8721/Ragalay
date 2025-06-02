@@ -83,7 +83,45 @@ Currently, she is working on her debut EP, a body of work that promises to showc
       "https://www.instagram.com/p/C6EBIuEoXgd/embed",
       "https://www.instagram.com/p/C76BOBlLZdw/embed"
     ]
-  }
+  },
+  {
+  "id": 5,
+  "name": "Bhargav Jyoti Kashyap",
+  "instrument": "Editing, Color Grading and Cinematography",
+  "bio": "Meet Bhargav Jyoti Kashyap—a Bangalore-based photographer and filmmaker who’s been vibing with the camera for over seven years now. From fashion and brand shoots to weddings and full-on film projects",
+  "image": "https://ik.imagekit.io/bxgl5da6x/me%201.jpg?updatedAt=1748873227964",
+  "experience": "Meet Bhargav Jyoti Kashyap—a Bangalore-based photographer and filmmaker who’s been vibing with the camera for over seven years now. From fashion and brand shoots to weddings and full-on film projects, he’s done a bit of everything (and nailed it, too). He’s got a killer eye for framing, a love for color grading, smooth camera skills, and edits like a boss. And guess what? He’s finally spilling the secrets! Get ready for a super chill, high-energy workshop where Bhargav brings all the fun, creativity, and behind-the-scenes magic to the table.",
+  "portfolio": [
+    "Director of Photography for multiple indie short films and fashion campaigns",
+    "Lead editor and colorist for commercial projects with top Bangalore-based brands",
+    "Specialist in DaVinci Resolve and Adobe Premiere Pro with over 100+ projects delivered"
+  ],
+  "instagramVideos": [
+    "https://www.instagram.com/p/C6EBIuEoXgd/embed",
+    "https://www.instagram.com/p/C76BOBlLZdw/embed"
+  ]
+},
+{
+  "id": 6,
+  "name": "Clarelance Momin",
+  "instrument": "Drum Instructor",
+  "bio": "With over six years of experience behind the kit and in the classroom, Clarelance Momin brings rhythm, passion, and precision to every lesson. Specializing in funk, progressive rock, and experimental genres, he combines deep musical knowledge with a clear, structured approach to teaching.",
+  "image": "https://ik.imagekit.io/bxgl5da6x/WhatsApp%20Image%202025-05-27%20at%2022.04.33_fab093f2.jpg?updatedAt=1748873508407",
+  "experience": "With over six years of experience behind the kit and in the classroom, Clarelance Momin brings rhythm, passion, and precision to every lesson. Specializing in funk, progressive rock, and experimental genres, he combines deep musical knowledge with a clear, structured approach to teaching.\n\nClarelance believes in breaking down every beat—literally. His method involves dissecting each note to help students fully grasp the groove, making even the most complex rhythms approachable and fun to learn.\n\nHe has performed on stages across the region with bands like Chestnuts and Purple Haze, and served as the lead drummer for Shankuraj Konwar’s hit song Ronole Jao, a performance that showcased his versatility and flair.\n\nWhether you're a beginner looking to get started or an experienced player aiming to level up, Clarelance offers patient, personalized instruction to help you find your rhythm—and run with it.",
+  "portfolio": [
+    "Performed live with Chestnuts and Purple Haze across Northeast India",
+    "Lead drummer for Shankuraj Konwar's hit single 'Ronole Jao'",
+    "Over 200 students taught in funk, progressive rock, and experimental styles",
+    "Designed structured curriculum for beginner to advanced drumming levels",
+    "Guest instructor at regional music camps and drumming workshops"
+  ],
+  "instagramVideos": [
+    "https://www.instagram.com/p/C6EBIuEoXgd/embed",
+    "https://www.instagram.com/p/C76BOBlLZdw/embed"
+  ]
+}
+
+
 ];
 
 const InstructorDetail = () => {

@@ -35,6 +35,20 @@ const mentors = [
     bio: "Skiddy Dx is an emerging Production and Mixing Engineer from Assam, India, known for his contributions to the Indian Hip Hop and indie music scenes. He has collaborated with various artists and released several singles that showcase his versatility and musical talent.",
     image: "https://ik.imagekit.io/bxgl5da6x/486103118_18399785776100176_6223413126589279450_n.png?updatedAt=1747905267499",
   },
+  {
+    id: 5,
+    name: "Bhargav Jyoti Kashyap",
+    instrument: "Editing, Color Grading and Cinematography",
+    bio: "Meet Bhargav Jyoti Kashyap—a Bangalore-based photographer and filmmaker who’s been vibing with the camera for over seven years now. From fashion and brand shoots to weddings and full-on film projects",
+    image: "https://ik.imagekit.io/bxgl5da6x/me%201.jpg?updatedAt=1748873227964",
+  },
+  {
+    id: 6,
+    name: "Clarelance Momin",
+    instrument: "Drum Instructor",
+    bio: "With over six years of experience behind the kit and in the classroom, Clarelance Momin brings rhythm, passion, and precision to every lesson. Specializing in funk, progressive rock, and experimental genres, he combines deep musical knowledge with a clear, structured approach to teaching.",
+    image: "https://ik.imagekit.io/bxgl5da6x/WhatsApp%20Image%202025-05-27%20at%2022.04.33_fab093f2.jpg?updatedAt=1748873508407",
+  },
 ];
 
 const AboutUs = () => {
