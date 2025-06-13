@@ -97,8 +97,8 @@ Currently, she is working on her debut EP, a body of work that promises to showc
     "Specialist in DaVinci Resolve and Adobe Premiere Pro with over 100+ projects delivered"
   ],
   "instagramVideos": [
-    "https://www.instagram.com/p/C6EBIuEoXgd/embed",
-    "https://www.instagram.com/p/C76BOBlLZdw/embed"
+    "https://ik.imagekit.io/bxgl5da6x/WhatsApp%20Video%202025-06-13%20at%2022.48.20_b2f014bb.mp4?updatedAt=1749835170420",
+    "https://ik.imagekit.io/bxgl5da6x/WhatsApp%20Video%202025-06-13%20at%2022.50.23_a5e1e5f5.mp4?updatedAt=1749835244032"
   ]
 },
 {

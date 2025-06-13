@@ -6,7 +6,7 @@ export const courses = [
     instructor: "Vivek Gogoi",
     level: "All Levels",
     price: '499/Class',
-    image: "https://blog.native-instruments.com/wp-content/uploads/dynamic/2023/04/how-to-write-song-lyrics-2-1200x0-c-default.jpg",
+    image: "https://images.unsplash.com/photo-1597271116561-ba0ff83c855b?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Songwriting",
     description: "Unlock your inner songwriter with this practical course led by Vivek Gogoi. From writing meaningful lyrics to crafting memorable melodies, you’ll learn the core techniques and creative processes used by modern songwriters to develop complete, compelling songs.",
   learnings: [
@@ -23,7 +23,7 @@ export const courses = [
     instructor: "Coming Soon",
     level: "All Levels",
     price: "499/Class",
-    image: "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?q=80&w=1000&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Guitar",
     description: "Take your guitar skills to the next level with advanced strumming and picking techniques. This intermediate course builds on basic guitar knowledge and introduces fingerpicking, advanced chords, and improvisation.",
     learnings: [
@@ -40,7 +40,7 @@ export const courses = [
     instructor: "Dawor Deka",
     level: "All Levels",
     price: "499/Class",
-    image: "https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1000&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1632054543980-3b8b44256f27?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Vocals",
     description: "Develop your singing voice with professional vocal techniques. This course covers breathing exercises, vocal range expansion, pitch control, and performance skills for all singing levels.",
     learnings: [
@@ -91,7 +91,7 @@ export const courses = [
     instructor: "Skiddy Dx",
     level: "All Levels",
     price: '700/Class',
-    image: "https://www.theseusmusicgroup.com/wp-content/uploads/2018/11/Mixing-Mastering-500x350.png",
+    image: "https://images.unsplash.com/photo-1703117387553-5d406704d157?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     category: "Music",
     description: "Learn the art and science of music production and mixing/mastering. This hands-on course by Skiddy Dx covers everything from recording basics to advanced mixing techniques, empowering you to produce professional-quality tracks from your home studio.",
   learnings: [
@@ -108,7 +108,7 @@ export const courses = [
   "instructor": "Bhargav Jyoti Kashyap",
   "level": "All Levels",
   "price": "700/Class",
-  "image": "https://www.shutterstock.com/image-photo/video-editor-filming-online-tutorial-600nw-2466601373.jpg",
+  "image": "https://images.unsplash.com/photo-1526698905402-e13b880ad864?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "category": "Editing",
   "description": "Dive into the dynamic world of visual storytelling with Bhargav Jyoti Kashyap. This all-levels course covers the essentials of cinematography, editing, and color grading—from camera setup and shot composition to post-production workflows. Learn to craft stunning visuals and bring your creative vision to life using industry-standard tools and techniques.",
   "learnings": [
@@ -125,7 +125,7 @@ export const courses = [
   "instructor": "Clarelance Momin",
   "level": "All Levels",
   "price": "700/Class",
-  "image": "https://cdn.pixabay.com/photo/2017/08/07/03/53/drums-2599508_1280.jpg",
+  "image": "https://plus.unsplash.com/premium_photo-1682097310516-42576ba524ad?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   "category": "Music",
   "description": "Unleash your inner rhythm with Clarelance Momin’s all-level drumming course. Whether you're picking up sticks for the first time or looking to sharpen your groove, this class covers everything from basic beats to complex time signatures. Explore funk, progressive rock, and experimental styles while learning proper technique, musicality, and how to express yourself through the drums.",
   "learnings": [
