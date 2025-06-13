@@ -14,7 +14,7 @@ const CourseDetail = () => {
   
   const handleEnrollNow = () => {
     // Replace with your actual WhatsApp number and message
-    const phoneNumber = "6900726549"; // Replace with your WhatsApp number
+    const phoneNumber = "+916900726549"; // Replace with your WhatsApp number
     const message = `Hi, I'm interested in enrolling for the ${course?.title} course!`;
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodedMessage}`;
